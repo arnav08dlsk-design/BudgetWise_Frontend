@@ -1,1 +1,1 @@
-export const BASE_URL = "https://budgetwise-backend-n4zl.onrender.com";
+export const BASE_URL = "https://budgetwise-backend-n4zl.onrender.com/api/v1";
